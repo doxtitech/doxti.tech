@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Doxti.Tech</title>
+    <link>http:/posts.html</link>
+    <description>Recent content in Posts on Doxti.Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 18:23:39 +0000</lastBuildDate>
+    
+	<atom:link href="http:/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post!</title>
+      <link>http:/posts/first-post.html</link>
+      <pubDate>Fri, 25 Jan 2019 18:23:39 +0000</pubDate>
+      
+      <guid>http:/posts/first-post.html</guid>
+      <description>But not just any post This post was created using https://doxti.com and is the first post for the tech blogging of doxti.tech. Of course, this first post is not going to be techie. But it is going to say something.
+Doxti SRL is a small fresh company from Cluj Napoca. It&amp;rsquo;s main product right now, is https://doxti.com, which is a static site generator User interface. Basically it&amp;rsquo;s a Admin Panel for HUGO from http://gohugo.</description>
+    </item>
+    
+  </channel>
+</rss>
