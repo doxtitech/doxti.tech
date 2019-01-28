@@ -6,19 +6,10 @@
     <description>Recent content on Doxti.Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 23:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 18:23:39 +0000</lastBuildDate>
     
 	<atom:link href="https://doxti.tech/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>29 Jan 2019 Update</title>
-      <link>https://doxti.tech/posts/29-jan-2019-update.html</link>
-      <pubDate>Mon, 28 Jan 2019 23:08:20 +0000</pubDate>
-      
-      <guid>https://doxti.tech/posts/29-jan-2019-update.html</guid>
-      <description>What changed?  All file names that are created new now have _ where special characters should be, but the title remains the same You have now the ability to select more repositories to publish to. Previously you had the ability to select the first 30, now it&amp;rsquo;s the first 100. More will follow later (We&amp;rsquo;re thinking infinite)  That&amp;rsquo;s it for today, not much, but important for our users.</description>
-    </item>
     
     <item>
       <title>27 Jan 2019 Update</title>
