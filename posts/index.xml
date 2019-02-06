@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Doxti.Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 19:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://doxti.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>February 2019 update 1</title>
+      <link>https://doxti.tech/posts/february-2019-update-1.html</link>
+      <pubDate>Tue, 05 Feb 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://doxti.tech/posts/february-2019-update-1.html</guid>
+      <description>For the month of February 2019, even though multiple updates and releases are planned, this is the first one:
+Functionality Changes:  Repository is now saved and automatically selected from the dropdown after you published once with a selected repository. So you don&amp;rsquo;t have to search for your repository where you want to publish a certain site, the repository is saved once selected and published once, and this happens for each site individually moved Github App to doxtitech username new dropdown in configuration page to select and change default theme (Still just 1 theme) now when you download a site you get a website-title.</description>
+    </item>
     
     <item>
       <title>28-29 Jan 2019 Update</title>
