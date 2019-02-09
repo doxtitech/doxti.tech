@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Doxti.Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Feb 2019 05:30:38 +0000</lastBuildDate>
     
 	<atom:link href="https://doxti.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>February 2019 Update / patch 1.1</title>
+      <link>https://doxti.tech/posts/february-2019-update-_-patch-1_1.html</link>
+      <pubDate>Sat, 09 Feb 2019 05:30:38 +0000</pubDate>
+      
+      <guid>https://doxti.tech/posts/february-2019-update-_-patch-1_1.html</guid>
+      <description>Quick Download bug fix In case you noticed, the download functionality was off since the last update. A bug from outer space was the culprit in this case.(the . from the zip file was not being set when generating the file, and the zip file was corrupt as a result. I promised a logo on next update, but this was more of a patch, with one major fix. so no logo yet, but download works!</description>
+    </item>
     
     <item>
       <title>February 2019 update 1</title>
