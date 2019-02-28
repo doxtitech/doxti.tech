@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Doxti.Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Feb 2019 05:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 07:13:47 +0000</lastBuildDate>
     
 	<atom:link href="https://doxti.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>End of February 2019 Update </title>
+      <link>https://doxti.tech/posts/end-of-february-2019-update-.html</link>
+      <pubDate>Thu, 28 Feb 2019 07:13:47 +0000</pubDate>
+      
+      <guid>https://doxti.tech/posts/end-of-february-2019-update-.html</guid>
+      <description>We have a mascot! And did a few changes that can be very important to some, we know they are to us. Here are most of the changes. (any remaining changes are specific to functionality, very technical and just a few)
+Ui Changes  new home screen that&amp;rsquo;s 3 parts  Home page Login page New Register page  We added a privacy policy and a cookie policy page linking from the register page.</description>
+    </item>
     
     <item>
       <title>February 2019 Update / patch 1.1</title>
