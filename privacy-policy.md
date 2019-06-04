@@ -2,7 +2,7 @@
 
 # Privacy Policy for Our Mobile Apps
 
-Effective date: 10 June, 2019
+Effective date: 04 June, 2019
 
 Doxti Tech SRL (“us”, “we”, or “our”) operates the website and mobile applications (the “Service”).
 
